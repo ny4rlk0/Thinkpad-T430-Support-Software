@@ -11,11 +11,11 @@ I did not write ThinkPad Hotkey Software and i don't know the one either. But it
 Install hotkey drivers before using software.
 
 # Flashing BIOS without battery.
-### Make sure FL1 and FL2 is same folder as Winflash
-### Pick the correct architecture 64 or 32
-## Do not enter both command<!>
-### cd into Winflash directory
-`WinFlash64.exe /file $01D2000.FL1`
+* Make sure FL1 and FL2 is same folder as Winflash
+* Pick the correct architecture 64 or 32
+* Do not enter both command <!>
+* Open CMD and cd into Winflash directory
+> `WinFlash64.exe /file $01D2000.FL1`
 ### OR
-`WinFlash32.exe /file $01D2000.FL1`
+> `WinFlash32.exe /file $01D2000.FL1`
 ## It will automatically load FL2 <!>
