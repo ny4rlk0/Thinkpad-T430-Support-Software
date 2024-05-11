@@ -1,4 +1,4 @@
-<a href="https://github.com/ny4rlk0/Thinkpad-T430-Support-Software/releases/download/Thinkpad_T430_Support_Software_Drivers/ThinkPad.T430.Drivers.exe">Download Drivers / Sürücüleri İndir (1GB)</a>
+<a href="https://github.com/ny4rlk0/Thinkpad-T430-Support-Software/releases/download/Thinkpad_T430_Support_Software_Drivers/ThinkPad.T430.Drivers.exe"># Download Drivers / Sürücüleri İndir (1GB)</a>
 
 <a href="https://raw.githubusercontent.com/ny4rlk0/Thinkpad-T430-Support-Software/main/ThinkPadHotkey.exe">Just Download ThinkPadHotkey Re-Mapping Software</a>
 
@@ -10,4 +10,6 @@ I did not write ThinkPad Hotkey Software and i don't know the one either. But it
 
 Install hotkey drivers before using software.
 
-''WinFlash64.exe /file $01D2000.FL1''
+# Flashing BIOS without battery.
+### Make sure FL1 and FL2 is same folder as Winflash<!>
+```WinFlash64.exe /file $01D2000.FL1```
