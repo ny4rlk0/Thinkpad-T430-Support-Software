@@ -13,23 +13,23 @@
 > I did not write ThinkPad Hotkey Software and i don't know the one either. But it is useful to map for lenovo devices.
 
 > [!WARNING]
-> Install hotkey drivers before using software.
+> Install hotkey drivers before using software!
 
 # Flashing BIOS without battery.
 > [!CAUTION]
-> Make sure FL1 and FL2 is same folder as Winflash
+> Make sure FL1 and FL2 is same folder as Winflash!
 
 > [!CAUTION]
-> Pick the correct architecture 64 or 32
+> Pick the correct architecture 64 or 32!
 
 > [!CAUTION]
-> Do not enter the both of the command.
+> Do not enter the both of the command!
 
 > [!NOTE]
-> Open CMD and cd into Winflash directory
+> Open CMD and cd into Winflash directory.
 
 - [x] `WinFlash64.exe /file $01D2000.FL1`  
 - [x] `WinFlash32.exe /file $01D2000.FL1`
 
 > [!IMPORTANT]
-> It will automatically load FL2
+> It will automatically load FL2.
