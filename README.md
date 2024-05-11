@@ -10,3 +10,4 @@ I did not write ThinkPad Hotkey Software and i don't know the one either. But it
 
 Install hotkey drivers before using software.
 
+''WinFlash64.exe /file $01D2000.FL1''
