@@ -4,7 +4,7 @@
 > [!TIP]
 ><a href="https://raw.githubusercontent.com/ny4rlk0/Thinkpad-T430-Support-Software/main/ThinkPadHotkey.exe">Just Download ThinkPadHotkey Re-Mapping Software</a>
 
-> [!INFO]
+> [!NOTE]
 > <a href="https://www.virustotal.com/gui/file/cccc6fcc2e7d09450608a2840a215eb95884a377e4d48b72813ac1b29f88cc91?nocache=1">(Virustotal Result)</a>
 
 <img src="https://raw.githubusercontent.com/ny4rlk0/Thinkpad-T430-Support-Software/main/SS.png">
