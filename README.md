@@ -22,10 +22,7 @@
 > Make sure FL1 and FL2 is same folder as Winflash!
 
 > [!CAUTION]
-> Pick the correct architecture 64 or 32!
-
-> [!CAUTION]
-> Do not enter the both of the command!
+> Pick the correct architecture x64 or x32/x86! NOT BOTH!
 
 > [!NOTE]
 > Open CMD and cd into Winflash directory.
