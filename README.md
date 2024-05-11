@@ -17,3 +17,4 @@ Install hotkey drivers before using software.
 `WinFlash64.exe /file $01D2000.FL1`
 ### OR
 `WinFlash32.exe /file $01D2000.FL1`
+## It will automatically load FL2 <!>
