@@ -29,8 +29,18 @@
 > [!NOTE]
 > Open CMD and cd into Winflash directory.
 
-- [x] `WinFlash64.exe /file $01D2000.FL1`  
-- [x] `WinFlash32.exe /file $01D2000.FL1`
+# x64 Bit
+```CMD
+WinFlash64.exe /file $01D2000.FL1
+```
+
+# x32/x86 Bit
+```CMD
+WinFlash32.exe /file $01D2000.FL1
+```
 
 > [!IMPORTANT]
 > It will automatically load FL2.
+
+- [x] Ticked!
+- [ ] Not ticked!
