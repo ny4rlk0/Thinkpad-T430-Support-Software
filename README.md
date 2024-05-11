@@ -17,7 +17,7 @@
 > [!WARNING]
 > Install hotkey drivers before using software!
 
-# Flashing BIOS without battery.
+# Flashing BIOS without battery
 > [!CAUTION]
 > Make sure FL1 and FL2 is same folder as Winflash!
 
