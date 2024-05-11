@@ -12,4 +12,5 @@ Install hotkey drivers before using software.
 
 # Flashing BIOS without battery.
 ### Make sure FL1 and FL2 is same folder as Winflash<!>
-```WinFlash64.exe /file $01D2000.FL1```
+# cd into Winflash directory
+`WinFlash64.exe /file $01D2000.FL1`
