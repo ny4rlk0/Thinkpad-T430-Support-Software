@@ -30,12 +30,14 @@
 > [!NOTE]
 > Open CMD and cd into Winflash directory.
 
-# x64 Bit
+# Commands (CMD)
+
+### x64 Bit
 ```CMD
 WinFlash64.exe /file $01D2000.FL1
 ```
 
-# x32/x86 Bit
+### x32/x86 Bit
 ```CMD
 WinFlash32.exe /file $01D2000.FL1
 ```
